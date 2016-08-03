@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="bubble_time_layout_margin_bottom">8dip</dimen>
+    <dimen name="bubble_time_layout_margin_top">18dip</dimen>
+    <dimen name="bubble_head_margin_horizontal">8dip</dimen>
+    <dimen name="max_text_bubble_width">222dip</dimen>
+
+
+    <dimen name="avatar_size_in_session">40dip</dimen>
+</resources>
